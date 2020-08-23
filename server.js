@@ -21,10 +21,9 @@ app.use(cors({
   app.use(express.json());
   
   // middleware - API routes
-  // Game Routes
-  app.use('/api/v1/games', routes.games);
-  // Auth Routes
-  app.use('/api/v1/auth', routes.auth);
+  // Car Routes
+  app.use('/api/v1/cars', routes.cars);
+
   
   // connection
   app.listen(port, () => console.log(`Server is running on port ${port}`));
