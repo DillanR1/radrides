@@ -1,4 +1,4 @@
-const db = require('..models');
+const db = require('../models');
 
 const index = (req, res) => {
     db.Car.find({}, (err, foundCars) => {

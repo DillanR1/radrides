@@ -10,10 +10,11 @@ const configOptions = {
     useFindAndModify: false,
 };
 
+
 mongoose.connect(connectionString, configOptions)
     .then(() => console.log('MongoDB successfully connected...'))
     .catch(err => console.log(`MongoDB connection error: ${err}`));
 
-module.exports = {
+    module.exports = {
     Car: require('./Car')
-}
+};
