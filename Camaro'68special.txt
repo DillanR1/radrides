@@ -1,0 +1,8 @@
+  {
+            "year": 1968,
+            "make": "Dave's Camaro",
+            "model": "Steam-Roller",
+            "carPicUrl": 
+        },
+
+        Need car picture URL, Stretch goal to include it
