@@ -29,9 +29,38 @@
         {
             "year": 2020,
             "make": "Honda",
-            "model": "Civic Type R",
+            "model": "Civic Type R (FK8)",
             "carPicUrl": "https://www.carscoops.com/wp-content/uploads/2019/07/774359db-honda-civic-type-r-2020--1024x555.jpg"
+        },
+        {
+            "year": 1995,
+            "make": "Nissan",
+            "model": "240sx (s14)",
+            "carPicUrl": "images/Image from iOS.png"
+        },
+        {
+            "year": 2004,
+            "make": "Nissan",
+            "model": "",
+            "carPicUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4r-giV3P9uhjzdzsKruDFDaS2QusBpQTHEw&usqp=CAU"
+        },
+        {
+            "year": 2007,
+            "make": "Honda",
+            "model": "Civic Si (FG2 Coupe)",
+            "carPicUrl": "http://www.kplayground.ca/images/475065_459067844107194_100000119481774_1897931_1972015164_o.jpg"
+        },
+        {
+            "year": 1968,
+            "make": "Chevy",
+            "model": "Camaro",
+            "carPicUrl": "https://barrettjacksoncdn.azureedge.net/staging/carlist/items/Fullsize/Cars/225584/225584_Front_3-4_Web.jpg"
+        },
+        {
+            "year": 1989,
+            "make": "BMW",
+            "model": "E30 M3",
+            "carPicUrl": "https://www.carscoops.com/wp-content/uploads/2020/01/BMW-E30-M3.jpg"
         }
-    
     ]
 }

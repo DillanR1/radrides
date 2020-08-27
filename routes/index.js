@@ -1,3 +1,4 @@
 module.exports = {
-    cars: require('./cars')
+    cars: require('./cars'),
+    post: require('./post')
 }
