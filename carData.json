@@ -30,7 +30,7 @@
             "year": 2020,
             "make": "Honda",
             "model": "Civic Type R (FK8)",
-            "carPicUrl": "https://www.carscoops.com/wp-content/uploads/2019/07/774359db-honda-civic-type-r-2020--1024x555.jpg"
+            "carPicUrl": "https://images.cdn.circlesix.co/image/2/1200/700/5/uploads/posts/2019/12/0e2f839e5b0526ffd6ccacee771ff38b.jpg"
         },
         {
             "year": 1995,
@@ -61,6 +61,12 @@
             "make": "BMW",
             "model": "E30 M3",
             "carPicUrl": "https://www.carscoops.com/wp-content/uploads/2020/01/BMW-E30-M3.jpg"
+        },
+        {
+            "year": 2019,
+            "make": "Dirt Modified",
+            "model": "GRT/Chevy",
+            "carPicUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/118157674_3225060380913911_7920078826323910113_n.jpg?_nc_cat=105&_nc_sid=110474&_nc_ohc=Mx6GVw6bB8sAX-dBATy&_nc_ht=scontent-sjc3-1.xx&oh=63872a8d892ed6942b3bb34215fe06b8&oe=5F6FAEC4"
         }
     ]
 }
