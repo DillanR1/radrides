@@ -10,11 +10,13 @@ const app = express();
 
 // CORS - Cross Origin Resource Sharing
 app.use(cors({
-    origin: [`http://localhost:3000`],
+    origin: '*',
     methods: "GET,POST,PUT,DELETE",
     // credentials: true, // allows the session cookie to be sent back and forth from server to client
     optionsSuccessStatus: 200
   }));
+
+  app.options('*', cors());
   
   // middleware - JSON parsing
   app.use(express.urlencoded({extended: false}));
