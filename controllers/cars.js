@@ -9,12 +9,15 @@ const index = (req, res) => {
 };
 
 const show = (req, res) => {
-    db.Car.findById(req.params.id, (err, foundCar) => {
+  console.log("car show params", req.params)
+    db.Car.findById(req.params.id)
+      .populate({path: 'posts'})
+      .exec((err, foundCar) => {
         if (err) console.log('Error in cars#show:', err);
-    
+     
         res.status(200).send(foundCar);
-    });
-};
+      });
+  }
 
 const create = (req, res) => {
     db.Car.create(req.body, (err, savedCar) => {

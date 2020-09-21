@@ -29,9 +29,44 @@
         {
             "year": 2020,
             "make": "Honda",
-            "model": "Civic Type R",
-            "carPicUrl": "https://www.carscoops.com/wp-content/uploads/2019/07/774359db-honda-civic-type-r-2020--1024x555.jpg"
+            "model": "Civic Type R (FK8)",
+            "carPicUrl": "https://images.cdn.circlesix.co/image/2/1200/700/5/uploads/posts/2019/12/0e2f839e5b0526ffd6ccacee771ff38b.jpg"
+        },
+        {
+            "year": 1995,
+            "make": "Nissan",
+            "model": "240sx (s14)",
+            "carPicUrl": "https://i.pinimg.com/originals/40/9a/2e/409a2effa1e1fef1488f39865e9a5b55.jpg"
+        },
+        {
+            "year": 2004,
+            "make": "Nissan",
+            "model": "",
+            "carPicUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4r-giV3P9uhjzdzsKruDFDaS2QusBpQTHEw&usqp=CAU"
+        },
+        {
+            "year": 2007,
+            "make": "Honda",
+            "model": "Civic Si (FG2 Coupe)",
+            "carPicUrl": "http://www.kplayground.ca/images/475065_459067844107194_100000119481774_1897931_1972015164_o.jpg"
+        },
+        {
+            "year": 1968,
+            "make": "Chevy",
+            "model": "Camaro",
+            "carPicUrl": "https://barrettjacksoncdn.azureedge.net/staging/carlist/items/Fullsize/Cars/225584/225584_Front_3-4_Web.jpg"
+        },
+        {
+            "year": 1989,
+            "make": "BMW",
+            "model": "E30 M3",
+            "carPicUrl": "https://www.carscoops.com/wp-content/uploads/2020/01/BMW-E30-M3.jpg"
+        },
+        {
+            "year": 2019,
+            "make": "Dirt Modified",
+            "model": "GRT/Chevy",
+            "carPicUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/118157674_3225060380913911_7920078826323910113_n.jpg?_nc_cat=105&_nc_sid=110474&_nc_ohc=Mx6GVw6bB8sAX-dBATy&_nc_ht=scontent-sjc3-1.xx&oh=63872a8d892ed6942b3bb34215fe06b8&oe=5F6FAEC4"
         }
-    
     ]
 }

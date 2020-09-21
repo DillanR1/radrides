@@ -6,7 +6,11 @@ const CarSchema = new Schema({
     make: String,
     model: String,
     carPicUrl: String,
-});
+    posts: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Post"
+    }],
+ });
 
 const Car = mongoose.model('Car', CarSchema);
 

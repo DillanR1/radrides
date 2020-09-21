@@ -25,6 +25,7 @@ app.use(cors({
   // middleware - API routes
   // Car Routes
   app.use('/api/v1/cars', routes.cars);
+  app.use('/api/v1/posts', routes.posts)
 
   
   // connection
